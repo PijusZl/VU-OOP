@@ -21,3 +21,5 @@ It's my first project and game created using Java.
 
     1. While the editor is opened, you can choose a tile you want to place
     2. To stop placing tiles press E to cancel or R to reopen editor menu
+
+There are a total of 3 levels to complete. **Reach a sign to complete a level**
