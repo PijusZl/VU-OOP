@@ -11,10 +11,10 @@ It's my first project and game created using Java.
 ## Gameplay
 
 1. Controls are very simple:
-    1. W - jump/climb up
-    2. S - climb down
-    3. A - go left
-    4. D - go right
+    * W - jump/climb up
+    * S - climb down
+    * A - go left
+    * D - go right
 2. Press E to open/close editor menu
 
 ![Gameplay image](images/img2.png)
