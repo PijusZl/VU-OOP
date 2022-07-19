@@ -8,5 +8,5 @@ It's my first project and game created using Java.
 
 **I also included JAR file to play it without needing to install anything (only to have Java)**
 
-# Gameplay
+## Gameplay
 
