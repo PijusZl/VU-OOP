@@ -4,4 +4,4 @@ A simple 2D game created with java and [Processing](https://www.processing.org) 
 
 ![Gameplay image](images/img1.png)
 
-**I also include JAR file to try and play the game for yourselves**
+**I also included JAR file to try and play the game for yourselves**
